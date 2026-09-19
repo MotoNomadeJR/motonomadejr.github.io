@@ -1,0 +1,8 @@
+Estructura de imágenes
+
+Accesorios Moto 1/ -> imagen principal: Nombre.jpeg
+Accesorios Moto 2/ -> segunda imagen: Nombre 2.jpeg
+Accesorios Motero 1/ -> imagen principal: Nombre.jpeg
+Accesorios Motero 2/ -> segunda imagen: Nombre 2.jpeg
+
+Ejemplo: Luz Led.jpeg y Luz Led 2.jpeg
